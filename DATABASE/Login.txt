@@ -1,0 +1,4 @@
+K-Mean Clustering dalam Pengelompokkan Kerusakan Komputer
+
+user: admin
+pass: admin
